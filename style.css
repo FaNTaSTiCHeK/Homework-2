@@ -1,0 +1,89 @@
+.Обложка {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.Кнопки {
+    font-size: 25px;
+    margin: 15px;
+    display: inline-block;
+}
+
+.Кнопка1 {
+    display: block;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: 'StratosSkyeng', sans-serif;
+    text-decoration: none;
+    background-color: beige;
+    color: gray;
+    font-size: 34px;
+    padding: 30px;
+    left: 750px;
+}
+
+.Кнопка2 {
+    display: block;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: 'StratosSkyeng', sans-serif;
+    text-decoration: none;
+    background-color: beige;
+    color: gray;
+    font-size: 34px;
+    padding: 30px;
+    left: 1500px;
+}
+
+.Назад1 {
+    display: block;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: 'StratosSkyeng', sans-serif;
+    text-decoration: none;
+    background-color: beige;
+    color: gray;
+    font-size: 34px;
+    padding: 30px;
+}
+
+.Назад2 {
+    display: block;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: 'StratosSkyeng', sans-serif;
+    text-decoration: none;
+    background-color: beige;
+    color: gray;
+    font-size: 34px;
+    padding: 30px;
+    left: 800px;
+}
+
+.Страница1 {
+    display: block;
+    list-style-type: none;
+    margin: 173px auto;
+    max-width: 1060px;
+    
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    top: 300px;  
+}
+
+.Страница2 {
+    display: block;
+    list-style-type: none;
+    margin: 173px auto;
+    max-width: 1060px;
+    
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
